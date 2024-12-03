@@ -6,6 +6,6 @@ This repository contains various machine learning projects completed during my s
 
 - **Programming Language**: Python
 - **Libraries**:
-  - **Scikit-learn** (for machine learning models and preprocessing)
+  - **Sklearn** (for machine learning models and preprocessing)
   - **Pandas** and **NumPy** (for data manipulation and analysis)
   - **Matplotlib** and **Seaborn** (for data visualization)
